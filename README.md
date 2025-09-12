@@ -18,12 +18,14 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0020-valid-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Harsha-2603/LeetCode/tree/master/0058-length-of-last-word) |
+| [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
