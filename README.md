@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -19,6 +20,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harsha-2603/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Harsha-2603/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -38,5 +40,6 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
