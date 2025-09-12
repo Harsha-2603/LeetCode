@@ -55,6 +55,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-2603/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -71,4 +72,12 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
