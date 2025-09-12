@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
