@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
@@ -42,4 +43,12 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
