@@ -13,6 +13,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
