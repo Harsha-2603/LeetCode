@@ -34,6 +34,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0007-reverse-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsha-2603/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harsha-2603/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -95,4 +96,12 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
