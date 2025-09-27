@@ -42,6 +42,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harsha-2603/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Harsha-2603/LeetCode/tree/master/2752-sum-multiples) |
@@ -59,6 +60,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
