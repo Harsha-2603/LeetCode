@@ -24,6 +24,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harsha-2603/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Harsha-2603/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
