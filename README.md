@@ -135,4 +135,12 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
