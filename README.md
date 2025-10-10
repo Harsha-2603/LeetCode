@@ -80,6 +80,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0838-design-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
