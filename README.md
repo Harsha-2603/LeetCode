@@ -79,6 +79,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Harsha-2603/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Harsha-2603/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha-2603/LeetCode/tree/master/0203-remove-linked-list-elements) |
