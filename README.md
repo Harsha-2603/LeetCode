@@ -27,6 +27,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harsha-2603/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Harsha-2603/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harsha-2603/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [2752-sum-multiples](https://github.com/Harsha-2603/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Harsha-2603/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Harsha-2603/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harsha-2603/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3371-harshad-number](https://github.com/Harsha-2603/LeetCode/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
