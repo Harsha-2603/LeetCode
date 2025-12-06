@@ -20,6 +20,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Harsha-2603/LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -77,6 +78,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
@@ -109,6 +111,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
@@ -173,4 +177,20 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Harsha-2603/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
