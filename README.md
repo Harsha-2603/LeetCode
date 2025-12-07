@@ -24,6 +24,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harsha-2603/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -52,6 +53,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harsha-2603/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Harsha-2603/LeetCode/tree/master/2752-sum-multiples) |
