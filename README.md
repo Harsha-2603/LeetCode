@@ -129,6 +129,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/Harsha-2603/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/Harsha-2603/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
