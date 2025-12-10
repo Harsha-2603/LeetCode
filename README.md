@@ -13,6 +13,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-2603/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
