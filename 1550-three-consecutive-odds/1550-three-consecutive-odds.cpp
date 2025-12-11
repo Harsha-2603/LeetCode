@@ -10,7 +10,7 @@ public:
             int a=arr[i],b=arr[i+1],c=arr[i+2];
             if(a%2!=0 && b%2!=0 && c%2!=0){
                 q=1;
-            }
+            }    
         }
         return(q);
     }
