@@ -134,6 +134,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/Harsha-2603/LeetCode/tree/master/0709-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/Harsha-2603/LeetCode/tree/master/3019-number-of-changing-keys) |
