@@ -23,6 +23,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/Harsha-2603/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
