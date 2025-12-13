@@ -25,6 +25,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Harsha-2603/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsha-2603/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
