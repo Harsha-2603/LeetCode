@@ -30,6 +30,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsha-2603/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsha-2603/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harsha-2603/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -110,6 +111,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsha-2603/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0709-to-lower-case](https://github.com/Harsha-2603/LeetCode/tree/master/0709-to-lower-case) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsha-2603/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-2603/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/Harsha-2603/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/Harsha-2603/LeetCode/tree/master/3194-find-words-containing-character) |
