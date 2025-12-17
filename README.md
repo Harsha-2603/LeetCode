@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Harsha-2603/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsha-2603/LeetCode/tree/master/0066-plus-one) |
@@ -102,6 +103,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Harsha-2603/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Harsha-2603/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
