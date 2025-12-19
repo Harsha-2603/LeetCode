@@ -166,6 +166,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsha-2603/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Harsha-2603/LeetCode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -227,4 +228,16 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harsha-2603/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsha-2603/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsha-2603/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsha-2603/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
