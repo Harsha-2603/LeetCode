@@ -47,6 +47,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsha-2603/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsha-2603/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Harsha-2603/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0007-reverse-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsha-2603/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Harsha-2603/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harsha-2603/LeetCode/tree/master/0069-sqrtx) |
@@ -150,6 +152,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Harsha-2603/LeetCode/tree/master/0058-length-of-last-word) |
