@@ -122,6 +122,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsha-2603/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsha-2603/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Harsha-2603/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Harsha-2603/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0013-roman-to-integer](https://github.com/Harsha-2603/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Harsha-2603/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
@@ -284,4 +286,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
