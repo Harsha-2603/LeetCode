@@ -29,6 +29,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Harsha-2603/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harsha-2603/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0069-sqrtx](https://github.com/Harsha-2603/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
