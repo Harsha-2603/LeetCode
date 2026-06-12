@@ -85,6 +85,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Harsha-2603/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Harsha-2603/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsha-2603/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Harsha-2603/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Harsha-2603/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
