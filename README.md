@@ -316,4 +316,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Harsha-2603/LeetCode/tree/master/0724-find-pivot-index) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harsha-2603/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
