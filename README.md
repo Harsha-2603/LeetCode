@@ -23,6 +23,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsha-2603/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Harsha-2603/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-2603/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Harsha-2603/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
