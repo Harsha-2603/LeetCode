@@ -11,6 +11,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsha-2603/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harsha-2603/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Harsha-2603/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harsha-2603/LeetCode/tree/main/0048-rotate-image/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harsha-2603/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
