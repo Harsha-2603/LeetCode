@@ -44,6 +44,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harsha-2603/LeetCode/tree/master/1051-height-checker) |
 | [1550-three-consecutive-odds](https://github.com/Harsha-2603/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/Harsha-2603/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsha-2603/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -242,6 +243,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harsha-2603/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harsha-2603/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Harsha-2603/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
