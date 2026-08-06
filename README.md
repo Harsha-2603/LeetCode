@@ -95,6 +95,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1518-water-bottles](https://github.com/Harsha-2603/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Harsha-2603/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harsha-2603/LeetCode/tree/master/0682-baseball-game) |
+| [1518-water-bottles](https://github.com/Harsha-2603/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsha-2603/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 ## Number Theory
