@@ -126,6 +126,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
@@ -187,6 +188,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 | Problem Name | Difficulty |
