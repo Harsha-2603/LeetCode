@@ -129,6 +129,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Harsha-2603/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
