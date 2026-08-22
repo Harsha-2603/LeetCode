@@ -19,6 +19,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0066-plus-one](https://github.com/Harsha-2603/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harsha-2603/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Harsha-2603/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harsha-2603/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-2603/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Harsha-2603/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
@@ -224,6 +226,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha-2603/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Harsha-2603/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Harsha-2603/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
