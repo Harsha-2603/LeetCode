@@ -25,6 +25,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsha-2603/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harsha-2603/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Harsha-2603/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,6 +129,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Harsha-2603/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
