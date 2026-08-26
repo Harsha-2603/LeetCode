@@ -97,6 +97,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Harsha-2603/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Harsha-2603/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0206-reverse-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Harsha-2603/LeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
