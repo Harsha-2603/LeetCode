@@ -94,6 +94,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0067-add-binary](https://github.com/Harsha-2603/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harsha-2603/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -131,6 +132,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0136-single-number](https://github.com/Harsha-2603/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harsha-2603/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -292,6 +294,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0021-merge-two-sorted-lists](https://github.com/Harsha-2603/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha-2603/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 | Problem Name | Difficulty |
