@@ -42,6 +42,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0704-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harsha-2603/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harsha-2603/LeetCode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/Harsha-2603/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsha-2603/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
@@ -260,6 +262,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harsha-2603/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harsha-2603/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Harsha-2603/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Heap (Priority Queue)
