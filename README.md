@@ -35,6 +35,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -148,6 +150,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harsha-2603/LeetCode/tree/master/1051-height-checker) |
@@ -199,11 +202,13 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0053-maximum-subarray](https://github.com/Harsha-2603/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Harsha-2603/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 | Problem Name | Difficulty |
@@ -268,6 +273,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Harsha-2603/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
@@ -309,6 +315,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -365,4 +372,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Harsha-2603/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
