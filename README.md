@@ -46,6 +46,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0704-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harsha-2603/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/Harsha-2603/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0234-palindrome-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Harsha-2603/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsha-2603/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/Harsha-2603/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsha-2603/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
