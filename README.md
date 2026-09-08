@@ -34,6 +34,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0189-rotate-array](https://github.com/Harsha-2603/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha-2603/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Harsha-2603/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0142-linked-list-cycle-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -154,6 +156,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsha-2603/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -215,6 +218,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Harsha-2603/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -388,4 +392,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
