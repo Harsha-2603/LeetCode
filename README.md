@@ -122,6 +122,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harsha-2603/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3371-harshad-number](https://github.com/Harsha-2603/LeetCode/tree/master/3371-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/Harsha-2603/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Harsha-2603/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
