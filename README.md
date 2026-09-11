@@ -69,6 +69,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [3194-find-words-containing-character](https://github.com/Harsha-2603/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Harsha-2603/LeetCode/tree/master/3226-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harsha-2603/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-2603/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-2603/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3934-coupon-code-validator](https://github.com/Harsha-2603/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Math
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0231-power-of-two](https://github.com/Harsha-2603/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harsha-2603/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harsha-2603/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-2603/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,4 +401,8 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-2603/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
