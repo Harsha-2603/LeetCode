@@ -21,6 +21,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0073-set-matrix-zeroes](https://github.com/Harsha-2603/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Harsha-2603/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harsha-2603/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-2603/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harsha-2603/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harsha-2603/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harsha-2603/LeetCode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsha-2603/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Harsha-2603/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha-2603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
