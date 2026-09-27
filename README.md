@@ -61,6 +61,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [1550-three-consecutive-odds](https://github.com/Harsha-2603/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Harsha-2603/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1652-defuse-the-bomb](https://github.com/Harsha-2603/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsha-2603/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Harsha-2603/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha-2603/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Harsha-2603/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
