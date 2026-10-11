@@ -55,6 +55,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harsha-2603/LeetCode/tree/master/1051-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsha-2603/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -149,6 +150,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1646-kth-missing-positive-number](https://github.com/Harsha-2603/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -393,6 +395,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha-2603/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha-2603/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsha-2603/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Harsha-2603/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Prefix Sum
@@ -403,6 +406,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0303-range-sum-query-immutable](https://github.com/Harsha-2603/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Harsha-2603/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsha-2603/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Harsha-2603/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Union-Find
