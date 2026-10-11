@@ -53,6 +53,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0792-binary-search](https://github.com/Harsha-2603/LeetCode/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/Harsha-2603/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/Harsha-2603/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -97,6 +98,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -395,6 +397,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha-2603/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha-2603/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsha-2603/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Harsha-2603/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
