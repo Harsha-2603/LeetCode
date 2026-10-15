@@ -96,6 +96,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsha-2603/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -256,6 +257,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0242-valid-anagram](https://github.com/Harsha-2603/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsha-2603/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsha-2603/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Harsha-2603/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsha-2603/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -396,6 +398,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha-2603/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha-2603/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsha-2603/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
