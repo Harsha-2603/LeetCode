@@ -102,6 +102,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsha-2603/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsha-2603/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsha-2603/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -264,6 +265,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0709-to-lower-case](https://github.com/Harsha-2603/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Harsha-2603/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Harsha-2603/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsha-2603/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-2603/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsha-2603/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harsha-2603/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -405,6 +407,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0643-maximum-average-subarray-i](https://github.com/Harsha-2603/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harsha-2603/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsha-2603/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsha-2603/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsha-2603/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Harsha-2603/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Prefix Sum
