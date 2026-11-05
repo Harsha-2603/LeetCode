@@ -43,6 +43,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0283-move-zeroes](https://github.com/Harsha-2603/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Harsha-2603/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Harsha-2603/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsha-2603/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harsha-2603/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode problem solutions with detailed approaches, examples, a
 | [0258-add-digits](https://github.com/Harsha-2603/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsha-2603/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Harsha-2603/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsha-2603/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsha-2603/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Harsha-2603/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1610-xor-operation-in-an-array](https://github.com/Harsha-2603/LeetCode/tree/master/1610-xor-operation-in-an-array) |
